@@ -1,2 +1,3 @@
-gitlab-ce:17.2.0-ce.0
 nginx
+gitlab/gitlab-ce
+gitlab/gitlab-ce:17.2.0-ce.0
